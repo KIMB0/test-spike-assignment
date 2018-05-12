@@ -6,4 +6,4 @@ This is my solution to the "Cucumber, Pairwise, Performance Technical Experiment
 
 It contains a simple example on how Cucumber can be implemented with a dataset.
 
-For generating pairwise test cases, I used [this tool](https://pairwise.teremokgames.com/). My pairwise results can be found in the [pairwise.xlsx]() file.
+For generating pairwise test cases, I used [this tool](https://pairwise.teremokgames.com/). My pairwise results can be found in the [pairwise.xlsx](https://github.com/dbdness/test-spike-assignment/blob/master/Pairwise.xlsx) file.
