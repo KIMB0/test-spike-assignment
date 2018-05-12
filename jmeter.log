@@ -1,0 +1,69 @@
+2018-05-12 20:35:23,272 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2018-05-12 20:35:23,320 INFO o.a.j.JMeter: Loading user properties from: /usr/local/Cellar/jmeter/4.0/libexec/bin/user.properties
+2018-05-12 20:35:23,321 INFO o.a.j.JMeter: Loading system properties from: /usr/local/Cellar/jmeter/4.0/libexec/bin/system.properties
+2018-05-12 20:35:23,332 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-05-12 20:35:23,333 INFO o.a.j.JMeter: Version 4.0 r1823414
+2018-05-12 20:35:23,333 INFO o.a.j.JMeter: java.version=10.0.1
+2018-05-12 20:35:23,333 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-05-12 20:35:23,333 INFO o.a.j.JMeter: os.name=Mac OS X
+2018-05-12 20:35:23,333 INFO o.a.j.JMeter: os.arch=x86_64
+2018-05-12 20:35:23,334 INFO o.a.j.JMeter: os.version=10.13.4
+2018-05-12 20:35:23,334 INFO o.a.j.JMeter: file.encoding=UTF-8
+2018-05-12 20:35:23,334 INFO o.a.j.JMeter: Max memory     =1073741824
+2018-05-12 20:35:23,334 INFO o.a.j.JMeter: Available Processors =4
+2018-05-12 20:35:23,346 INFO o.a.j.JMeter: Default Locale=English (EN)
+2018-05-12 20:35:23,347 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2018-05-12 20:35:23,347 INFO o.a.j.JMeter: JMeterHome=/usr/local/Cellar/jmeter/4.0/libexec
+2018-05-12 20:35:23,347 INFO o.a.j.JMeter: user.dir  =/Users/dannynielsen/IdeaProjects/spikeassignment
+2018-05-12 20:35:23,347 INFO o.a.j.JMeter: PWD       =/Users/dannynielsen/IdeaProjects/spikeassignment
+2018-05-12 20:35:23,349 INFO o.a.j.JMeter: IP: 192.168.0.14 Name: Dannys-MacBook-Pro.local FullName: 192.168.0.14
+2018-05-12 20:35:25,515 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2018-05-12 20:35:25,525 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2018-05-12 20:35:25,526 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2018-05-12 20:35:25,693 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-05-12 20:35:26,396 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-05-12 20:35:26,396 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-05-12 20:35:28,912 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-12 20:35:28,913 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-12 20:35:28,914 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-12 20:35:28,914 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-05-12 20:35:28,914 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-05-12 20:35:28,914 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-05-12 20:35:29,558 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2018-05-12 20:35:29,558 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /usr/local/Cellar/jmeter/4.0/libexec/bin/proxyserver.jks
+2018-05-12 20:35:29,753 INFO o.a.j.s.FileServer: Default base='/Users/dannynielsen/IdeaProjects/spikeassignment'
+2018-05-12 20:35:30,219 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-05-12 20:35:30,219 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-05-12 20:35:30,219 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-05-12 20:35:30,219 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-05-12 20:44:00,072 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-05-12 20:44:00,074 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-05-12 20:44:00,074 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-05-12 20:44:00,080 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2018-05-12 20:44:00,197 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2018-05-12 20:44:00,197 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2018-05-12 20:44:00,198 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-12 20:44:00,198 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-12 20:44:00,203 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-05-12 20:44:00,203 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-05-12 20:44:00,206 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2018-05-12 20:44:00,212 INFO o.a.j.p.j.s.JUnitSampler: Trying to find constructor with one String parameter returned error: test.AfterAnnotatedTest.<init>(java.lang.String)
+2018-05-12 20:44:00,224 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2018-05-12 20:44:00,224 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2018-05-12 20:44:00,225 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-05-12 20:44:00,226 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2018-05-12 20:44:06,176 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-05-12 20:44:06,176 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-05-12 20:44:06,178 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2018-05-12 20:44:06,258 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2018-05-12 20:44:06,259 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2018-05-12 20:44:06,259 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-05-12 20:44:06,259 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2018-05-12 20:44:06,260 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2018-05-12 20:44:06,260 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-05-12 20:44:06,260 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2018-05-12 20:44:06,261 INFO o.a.j.p.j.s.JUnitSampler: Trying to find constructor with one String parameter returned error: test.AfterAnnotatedTest.<init>(java.lang.String)
+2018-05-12 20:44:06,263 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2018-05-12 20:44:06,263 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2018-05-12 20:44:06,264 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2018-05-12 20:44:06,264 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
