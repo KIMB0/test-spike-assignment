@@ -10,7 +10,3 @@ For generating pairwise test cases, I used [this tool](https://pairwise.teremokg
 
 ## Cucumber scenario result
 
-
-
-
-
